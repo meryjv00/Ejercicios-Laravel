@@ -19,7 +19,7 @@ class miControlador extends Controller {
         session()->put('ses',$loqsea); // $_SESSION[''] = $loqsea
         //var_dump($nombre);
         //dd($nombre);
-        if ($nombre == 'Daniel'){
+        if ($nombre == 'Maria'){
             //Vector asociativo con los datos q quiero pasar
             $datos = [
                 'nom' => $nombre,
