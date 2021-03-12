@@ -1,7 +1,7 @@
 # Ejercicios Laravel 📎📋
-composer update
-cp .env.example .env
-php artisan key:generate
+- composer update  
+- cp .env.example .env  
+- php artisan key:generate  
 
 ```
 0- Ejemplo inicial
